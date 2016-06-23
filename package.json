@@ -1,0 +1,23 @@
+{
+  "name": "url-lengthening-as-a-service",
+  "version": "0.0.1",
+  "description": "URL lengthener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wincent/url-lengthening-as-a-service.git"
+  },
+  "author": "Greg Hurrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wincent/url-lengthening-as-a-service/issues"
+  },
+  "homepage": "https://github.com/wincent/url-lengthening-as-a-service#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "request": "2.72.0"
+  }
+}
